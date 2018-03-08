@@ -1,0 +1,40 @@
+<style>
+body {
+  font-family: helvetica, sans-serif;
+}
+#prelaunchgiveaway {
+  text-align:center;
+  background-image: url("../images/banner4.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 90%;
+}
+h1 {
+  color: #ff0066;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  color: white;
+  font-size: 30px;
+}
+small {
+  color:white;
+  font-size:15px;
+}
+p {
+  font-size: 30px;}
+ul {
+  font-size:25px;}
+
+ form {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+#winners {
+  color: white;
+}
+</style>
